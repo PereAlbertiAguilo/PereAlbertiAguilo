@@ -27,12 +27,16 @@
     
     ![C#](https://img.shields.io/badge/C%23-%232370ED.svg?style=for-the-badge&logo=c%23&logoColor=white)
     ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+    ![HTML](https://img.shields.io/badge/HTML%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+    ![CSS](https://img.shields.io/badge/CSS%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+    ![JS](https://img.shields.io/badge/JavaScript%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
     
 - **Softwares and Tools**:
 
    ![Unity](https://img.shields.io/badge/Unity%20-%23E34F26.svg?style=for-the-badge&logo=unity&logoColor=white)
    ![VisualStudio](https://img.shields.io/badge/Visual%20Studio%20-%231572B6.svg?style=for-the-badge&logo=visualstudio&logoColor=white)
+   ![VisualStudioCode](https://img.shields.io/badge/Visual%20Studio%20Code-%231572B6.svg?style=for-the-badge&logo=visualstudio&logoColor=white)
    ![UnrealEngine](https://img.shields.io/badge/UnrealEngine%20-%23F7DF1E.svg?style=for-the-badge&logo=unrealengine&logoColor=black)
    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
