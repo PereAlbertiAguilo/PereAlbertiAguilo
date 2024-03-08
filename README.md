@@ -12,8 +12,9 @@
 <br>
 
 - Passionate Unity Game developer
+- Self tought Front-End Web development
 - Love to learn new stuff
-- Currently learning Unreal Engine and Front-End Web development
+- Currently learning Unreal Engine
 - I’m currently open for a new job opportunity
 
 <br>
@@ -27,18 +28,18 @@
     
     ![C#](https://img.shields.io/badge/C%23-%232370ED.svg?style=for-the-badge&logo=c%23&logoColor=white)
     ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-    ![HTML](https://img.shields.io/badge/HTML%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-    ![CSS](https://img.shields.io/badge/CSS%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-    ![JS](https://img.shields.io/badge/JavaScript%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+    ![HTML5](https://img.shields.io/badge/HTML5-%23f59b42?style=for-the-badge&logo=html5&logoColor=fff)
+    ![CSS](https://img.shields.io/badge/CSS-%231d64c2?style=for-the-badge&logo=css3&logoColor=fff)
+    ![JS](https://img.shields.io/badge/Java_Script-%23ebd91a?style=for-the-badge&logo=javascript&logoColor=000)
 
     
 - **Softwares and Tools**:
 
-   ![Unity](https://img.shields.io/badge/Unity%20-%23E34F26.svg?style=for-the-badge&logo=unity&logoColor=white)
-   ![VisualStudio](https://img.shields.io/badge/Visual%20Studio%20-%231572B6.svg?style=for-the-badge&logo=visualstudio&logoColor=white)
-   ![VisualStudioCode](https://img.shields.io/badge/Visual%20Studio%20Code-%231572B6.svg?style=for-the-badge&logo=visualstudio&logoColor=white)
-   ![UnrealEngine](https://img.shields.io/badge/UnrealEngine%20-%23F7DF1E.svg?style=for-the-badge&logo=unrealengine&logoColor=black)
-   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+   ![Unity](https://img.shields.io/badge/Unity%20-%23707070.svg?style=for-the-badge&logo=unity&logoColor=white)
+   ![VisualStudio](https://img.shields.io/badge/Visual%20Studio%20-%23a51aeb.svg?style=for-the-badge&logo=visualstudio&logoColor=white)
+   ![VisualStudioCode](https://img.shields.io/badge/Visual_Studio_Code-%234290f5?style=for-the-badge&logo=visualstudiocode&logoColor=fff)
+   ![UnrealEngine](https://img.shields.io/badge/UnrealEngine%20-%23fff.svg?style=for-the-badge&logo=unrealengine&logoColor=black)
+   ![GitHub](https://img.shields.io/badge/github-%23620d8c.svg?style=for-the-badge&logo=github&logoColor=white)
 
 
 </p>
@@ -52,7 +53,6 @@
 
 <ul>
 
-<li>
 <a href="https://linkedin.com/in/pere-albertí-aguiló-718083271" target="_blank">
 <img src="https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
