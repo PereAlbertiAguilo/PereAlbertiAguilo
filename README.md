@@ -14,7 +14,7 @@
 - Passionate Unity Game developer
 - Self tought Front-End Web development
 - Love to learn new stuff
-- Currently learning Unreal Engine
+- Currently learning Unreal Engine and Web Development (HTML, CSS, JS)
 - I’m currently open for a new job opportunity
 
 <br>
