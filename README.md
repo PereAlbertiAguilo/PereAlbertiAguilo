@@ -26,7 +26,7 @@
 
 - **Languages**:
     
-    ![C#](https://img.shields.io/badge/C%23-%23512BD4.svg?style=for-the-badge&logo=C%23&logoColor=white)
+    ![C#](https://img.shields.io/badge/C%23-%23512BD4.svg?style=for-the-badge&logo=cshrp&logoColor=white)
     ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=fff)
     ![CSS](https://img.shields.io/badge/CSS-%231572B6?style=for-the-badge&logo=css&logoColor=fff)
     ![JS](https://img.shields.io/badge/Java_Script-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
@@ -36,8 +36,8 @@
 - **Softwares and Tools**:
 
    ![Unity](https://img.shields.io/badge/Unity%20-%23FFFFFF.svg?style=for-the-badge&logo=unity&logoColor=000)
-   ![VisualStudio](https://img.shields.io/badge/Visual%20Studio%20-%235C2D91.svg?style=for-the-badge&logo=visualstudio&logoColor=white)
-   ![VisualStudioCode](https://img.shields.io/badge/Visual_Studio_Code-%23007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=fff)
+   ![Visual Studio](https://img.shields.io/badge/Visual%20Studio%20-%235C2D91.svg?style=for-the-badge&logo=visualstudio&logoColor=white)
+   ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-%23007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=fff)
    ![GitHub](https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
 
 
