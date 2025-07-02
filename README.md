@@ -27,10 +27,10 @@
 - **Languages**:
     
     ![C#](https://img.shields.io/badge/C%23-%23512BD4.svg?style=for-the-badge&logo=c%23&logoColor=white)
-    ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
     ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=fff)
     ![CSS](https://img.shields.io/badge/CSS-%231572B6?style=for-the-badge&logo=css3&logoColor=fff)
     ![JS](https://img.shields.io/badge/Java_Script-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
+    ![TS](https://img.shields.io/badge/Type_Script-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
 
     
 - **Softwares and Tools**:
@@ -38,7 +38,6 @@
    ![Unity](https://img.shields.io/badge/Unity%20-%23FFFFFF.svg?style=for-the-badge&logo=unity&logoColor=000)
    ![VisualStudio](https://img.shields.io/badge/Visual%20Studio%20-%235C2D91.svg?style=for-the-badge&logo=visualstudio&logoColor=white)
    ![VisualStudioCode](https://img.shields.io/badge/Visual_Studio_Code-%23007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=fff)
-   ![UnrealEngine](https://img.shields.io/badge/UnrealEngine%20-%230E1128.svg?style=for-the-badge&logo=unrealengine&logoColor=fff)
    ![GitHub](https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
 
 
