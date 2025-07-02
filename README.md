@@ -1,45 +1,50 @@
 
 <h1 align="center"><b>Hi, I'm Pere Albertí Aguiló </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<!--  -->
+
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Unity+Game+Developer,;Title+in+3D+Animation,;Games+and+Interactive+Spaces"></a>
+ <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=1000&height=100&duration=3000&lines=Unity+Game+Developer,;Full+Stack+Web+Developer">
 </p>
 
 	
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+## <picture><img align="left" src = "https://img.icons8.com/?size=100&id=14313&format=png&color=FFFFFF" width = 30px></picture> **About me**
 
 
 <br>
 
 - Passionate Unity Game developer
-- Self tought Front-End Web development
+- Self tought Full-Stack web development
 - Love to learn new stuff
-- Currently learning Unreal Engine and Web Development (HTML, CSS, JS)
-- I’m currently open for a new job opportunity
+- Currently learning React with Typescript and Tailwind
+- And about to start a degree in Computer Science
 
 <br>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+## <img align="left" src="https://img.icons8.com/?size=100&id=16786&format=png&color=FFFFFF" width ="30"><b>Skills</b>
 <br>
 
 <p align="center">
 
 - **Languages**:
     
-    ![C#](https://img.shields.io/badge/C%23-%23512BD4.svg?style=for-the-badge&logo=cshrp&logoColor=white)
+    ![C#](https://img.shields.io/badge/C%23-%23823085.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
     ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=fff)
     ![CSS](https://img.shields.io/badge/CSS-%231572B6?style=for-the-badge&logo=css&logoColor=fff)
     ![JS](https://img.shields.io/badge/Java_Script-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
-    ![TS](https://img.shields.io/badge/Type_Script-%23F7DF1E?style=for-the-badge&logo=typescript&logoColor=000)
 
     
 - **Softwares and Tools**:
 
    ![Unity](https://img.shields.io/badge/Unity%20-%23FFFFFF.svg?style=for-the-badge&logo=unity&logoColor=000)
-   ![Visual Studio](https://img.shields.io/badge/Visual%20Studio%20-%23FFFFFF.svg?style=for-the-badge&logo=visualstudio&logoColor=purple)
-   ![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)
+   ![Visual Studio](https://img.shields.io/badge/Visual%20Studio%20-%23AE7FE2.svg?style=for-the-badge&logo=vs&logoColor=000)
+   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code%20-%230078d7.svg?style=for-the-badge&logo=vscode&logoColor=000)
    ![GitHub](https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
 
+
+- **General knowledge**:
+
+   ![TS](https://img.shields.io/badge/Type_Script-%23007ACC?style=for-the-badge&logo=typescript&logoColor=fff)
+   ![React](https://img.shields.io/badge/react-%230081A3.svg?style=for-the-badge&logo=react&logoColor=white)
+   ![Unreal Engine](https://img.shields.io/badge/unreal%20engine-%23000.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
 
 </p>
 
