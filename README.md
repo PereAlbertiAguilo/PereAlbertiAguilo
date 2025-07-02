@@ -30,7 +30,7 @@
     ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=fff)
     ![CSS](https://img.shields.io/badge/CSS-%231572B6?style=for-the-badge&logo=css3&logoColor=fff)
     ![JS](https://img.shields.io/badge/Java_Script-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
-    ![TS](https://img.shields.io/badge/Type_Script-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
+    ![TS](https://img.shields.io/badge/Type_Script-%23F7DF1E?style=for-the-badge&logo=typescript&logoColor=000)
 
     
 - **Softwares and Tools**:
