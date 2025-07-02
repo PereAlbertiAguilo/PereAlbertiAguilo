@@ -47,7 +47,7 @@
 
 <br>
 
-## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+## <b><img align="left" src="https://img.icons8.com/?size=100&id=16073&format=png&color=FFFFFF" width ="30"> Let's Connect..!</b>
 <br>
 <div align='left'>
 
