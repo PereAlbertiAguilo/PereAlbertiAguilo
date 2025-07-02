@@ -36,8 +36,8 @@
 - **Softwares and Tools**:
 
    ![Unity](https://img.shields.io/badge/Unity%20-%23FFFFFF.svg?style=for-the-badge&logo=unity&logoColor=000)
-   ![Visual Studio](https://img.shields.io/badge/Visual%20Studio%20-%235C2D91.svg?style=for-the-badge&logo=visualstudio&logoColor=white)
-   ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-%23007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=fff)
+   ![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visualstudio&logoColor=white)
+   ![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)
    ![GitHub](https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
 
 
