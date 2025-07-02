@@ -26,9 +26,9 @@
 
 - **Languages**:
     
-    ![C#](https://img.shields.io/badge/C%23-%23512BD4.svg?style=for-the-badge&logo=c%23&logoColor=white)
+    ![C#](https://img.shields.io/badge/C%23-%23512BD4.svg?style=for-the-badge&logo=C%23&logoColor=white)
     ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=fff)
-    ![CSS](https://img.shields.io/badge/CSS-%231572B6?style=for-the-badge&logo=css3&logoColor=fff)
+    ![CSS](https://img.shields.io/badge/CSS-%231572B6?style=for-the-badge&logo=css&logoColor=fff)
     ![JS](https://img.shields.io/badge/Java_Script-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
     ![TS](https://img.shields.io/badge/Type_Script-%23F7DF1E?style=for-the-badge&logo=typescript&logoColor=000)
 
